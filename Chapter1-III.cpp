@@ -154,7 +154,7 @@ double sumOFgeomProg(double b1, double q, int n) {
 }
 
 int main() {
-	cout << "\n\t\tTarAndr C++ Exercises, Chapter 1, II\n" << endl;
+	cout << "\n\t\tTarAndr C++ Exercises, Chapter 1, III\n" << endl;
 	
 	int precision, mode, i;
 	double a, b, c, d, e, f, res;
