@@ -320,8 +320,6 @@ int main() {
 	exercise[17] = "Two-digit numbers in which the highest digit differs from the lowest by no more than one";
 	exercise[18] = "Three-digit numbers that start and end with the same digit";
 	exercise[19] = "Three-digit numbers with at least 2 digits repeated";
-	int res;
-	double x, y;
 	
 	do{
 	
