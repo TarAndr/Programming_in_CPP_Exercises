@@ -1,3 +1,3 @@
 @echo off
-g++ Chapter4-I.cpp -o Chapter4-I.exe
-Chapter4-I.exe
+g++ Chapter5-I.cpp -o Chapter5-I.exe
+Chapter5-I.exe
