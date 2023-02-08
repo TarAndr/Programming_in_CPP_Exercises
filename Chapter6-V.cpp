@@ -99,8 +99,8 @@ bool insertElemInArr(int *arr, int &n, int k) {
 	
 	if(k < 0 || k > n) return 1;
 
-	for(int i = n; i >= k; --i) {
-		*(arr + i + 1) = *(arr + i);
+	for(int i = n; i > k; --i) {
+		*(arr + i) = *(arr + i - 1);
 	}
 
 	++n;
